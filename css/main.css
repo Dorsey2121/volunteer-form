@@ -1,0 +1,22 @@
+header {
+  background-color: #70ad55;
+  color: #fff;
+}
+
+fieldset {
+  border: none;
+}
+
+button {
+  background-color: #6e8c62;
+  color: #fff;
+  border: none;
+}
+
+input {
+  border-color: #6e8c62;
+}
+
+select {
+  border-color: #6e8c62;
+}
